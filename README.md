@@ -1,5 +1,19 @@
 # Arrowmont Migration Discussion by Nark Baggett
 
+
+## Intro
+
+Arrowmont is made up of numerous content models, mime types, and related materials. Most of these are discussed below.
+
+Because this is a migration and our primary focus is on managing the digital assets, the document focuses on these 3 questions:
+
+1. What do we have
+2. What do we currently deliver
+3. What can we do for migration
+
+Look and feel may be mentioned, but is not the focus of the document. If you're curious on how to relate this to "look and feel," start with [Louisa's Content Models document](https://wiki.lib.utk.edu/display/DLP/Content+Models).
+
+
 ## 3D Objects
 
 #### What do we have?
@@ -296,6 +310,8 @@ Metadata and Thumbnail with a Link to a Full JPG. [Here is an Example.](http://d
 **Large Image** is the obvious answer here.  There are no hurdles.
 
 ## Other Stuff
+
+Arrowmont was a large IMLS grant. The grant provided many more things than delivery and digitization of cultural heritage materials. These things can all be found [here](http://www.lib.utk.edu/arrowmont/?_ga=2.119595528.1281533654.1509979651-1413165338.1495021793).
 
 ### Curriculum Documents
 
